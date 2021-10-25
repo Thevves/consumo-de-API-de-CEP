@@ -31,7 +31,7 @@ const preencherFormulario = async (evento) => {
     }
 
     else{
-        document.querySelector("#endereco").value = "coloca um CEP q vale bexta";
+        document.querySelector("#endereco").value = "CPF inexistente!!";
     }
 };
 
